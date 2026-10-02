@@ -1,0 +1,32 @@
+TASK 2: PHISHING EMAIL ANALYSIS
+
+Objective
+
+To identify phishing characteristics in a suspicious Microsoft-themed email sample.
+
+1. SUSPICIOUS SENDER DOMAIN
+
+The email claims to be from Microsoft, but the sender's email address does not use an official Microsoft domain. This indicates possible sender impersonation or spoofing.
+
+2. SCARE / URGENT MESSAGE
+
+The email claims that the Microsoft account password was changed and that the account has been compromised. This creates fear and encourages the recipient to act quickly.
+
+3. MISLEADING TECHNICAL DETAILS
+
+The email provides technical-looking information such as the location, browser, and IP address associated with the alleged account activity. These details can make the email appear genuine and increase the recipient's concern.
+
+4. SUSPICIOUS PASSWORD-RESET LINK
+
+The email asks the recipient to click a "Reset your password" link after claiming that the account has been compromised. This is a key phishing indicator because it encourages the recipient to follow a link provided in the suspicious email.
+
+CONCLUSION
+
+The analyzed email contains several phishing indicators, including a suspicious sender domain, scare/urgent messaging, misleading technical details, and a password-reset link. These characteristics demonstrate common phishing and social-engineering techniques.
+
+SAFETY MEASURES
+
+- Do not click suspicious links.
+- Verify the sender independently.
+- Do not provide passwords or sensitive information.
+- Report suspected phishing emails.
